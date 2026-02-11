@@ -1,12 +1,11 @@
-# QA Portfolio: API Testing & Automation
-Hi, I'm Abhijeet! This repository contains my practical work as a QA Engineer.
+# Project Name
 
-### Tech Stack
-- **API Testing:** Postman
-- **Documentation:** Markdown / GitHub
-- **Validation:** JavaScript (Postman Scripts)
+This repository contains practice work for learning software testing.
 
-### Current Milestones
-- [x] Manual API Testing (GET, POST, PUT, DELETE)
-- [x] Automated Status Code Validation
-- [ ] UI Automation with Playwright (Coming Soon)
+Tools: 
+- (fill later)
+
+Focus:
+- (fill later)
+
+Status: In Progress
